@@ -195,4 +195,4 @@ if predict_btn:
 
 
 st.write("---")
-st.caption("Developed for AI Development Workflow – Week 5")
+st.caption("Developed for AI Development Workflow By Wanjiru Ian – Week 5")
